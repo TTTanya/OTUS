@@ -1,0 +1,2 @@
+task: text-classification
+model: Datactive/BERT_pap_queries_classification_2
